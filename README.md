@@ -29,7 +29,6 @@ iOS Developer with a decade of experience, crafting mobile experiences since 201
 ![Snake animation](https://github.com/mailamanzur/mailamanzur/blob/output/github-snake.svg)
 
 ## 📫 Let's Connect
-## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mailamanzur)
 
 ---
@@ -49,4 +48,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Snake animation](https://github.com/mailamanzur/mailamanzur/blob/output/ocean.gif)
