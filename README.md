@@ -29,8 +29,13 @@ iOS Developer with a decade of experience, crafting mobile experiences since 201
 ![Snake animation](https://github.com/mailamanzur/mailamanzur/blob/output/github-snake.svg)
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedIn)
-<!--
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mailamanzur)
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mailamanzur&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p><!--
 **mailamanzur/mailamanzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
