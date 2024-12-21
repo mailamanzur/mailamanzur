@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Snake animation](https://github.com/mailamanzur/mailamanzur/blob/output/ocean.gif)
+[![Maila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mailamanzur&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
