@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=mailamanzur&color=blueviolet)
 # Hi there! I'm Maila Manzur👋
 
 ## 🚀 About Me
