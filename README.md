@@ -1,7 +1,7 @@
 # Hi there! I'm Maila Manzur👋
 
 ## 🚀 About Me
-iOS Developer with a decade of experience, crafting mobile experiences since 2014. Currently based in Berlin 🇩🇪, bringing German engineering precision to mobile development.
+iOS Developer with a decade of experience, crafting mobile experiences since 2014. Currently based in Berlin 🇩🇪
 
 ## 💻 Tech Stack
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
